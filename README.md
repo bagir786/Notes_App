@@ -41,3 +41,21 @@ Menggunakan SharedPreferences, aplikasi akan mengingat tema pilihan pengguna mes
 | 🗄️ **Room / Local Database (opsional)** | Menyimpan catatan secara lokal |
 | 💾 **SharedPreferences**                 | Menyimpan tema aplikasi        |
 | 🧭 **Navigation-Compose**                | Navigasi antar screen          |
+
+
+
+## 📸 Screenshot Aplikasi
+
+
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/bagir786/Notes_App/master/1.png" width="250" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/bagir786/Notes_App/master/2.png" width="250" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/bagir786/Notes_App/master/3.png" width="250" />
+
+</div>
+
+
