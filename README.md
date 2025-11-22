@@ -50,15 +50,14 @@ Menggunakan SharedPreferences, aplikasi akan mengingat tema pilihan pengguna mes
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/bagir786/Notes_App/master/1.png" width="250" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/bagir786/Notes_App/master/2.png" width="250" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/bagir786/Notes_App/master/3.png" width="250" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/bagir786/Notes_App/blob/master/4.jpg" width="250" />
-
+<img src="https://raw.githubusercontent.com/bagir786/Notes_App/master/1.png" width="250" style="margin: 15px;" />&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/bagir786/Notes_App/master/2.png" width="250" style="margin: 15px;" />&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/bagir786/Notes_App/master/3.png" width="250" style="margin: 15px;" />&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/bagir786/Notes_App/master/4.jpg" width="250" style="margin: 15px;" />&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/user-attachments/assets/c7c305ae-c379-427c-8eff-a1d82d1ca4b2" width="250" style="margin: 15px;" /> &nbsp;&nbsp;&nbsp;
 
 </div>
+
+
 
 
