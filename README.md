@@ -5,7 +5,10 @@ Aplikasi Catatan Sederhana dengan Tema Dark/Light ⭐
 Selamat datang di Notes App, aplikasi catatan sederhana yang dibangun menggunakan Jetpack Compose.
 Aplikasi ini memungkinkan pengguna untuk menambah, mengedit, menghapus, dan mengatur tema aplikasi (Dark / Light Mode) menggunakan SharedPreferences.
 
+
 🚀 Fitur Utama
+
+
 📝 1. Daftar Catatan
 
 Pengguna dapat melihat semua catatan yang telah dibuat.
@@ -27,7 +30,10 @@ Setiap catatan dapat dihapus langsung dari tampilan detail.
 Menggunakan SharedPreferences, aplikasi akan mengingat tema pilihan pengguna meskipun aplikasi ditutup.
 
 
+
+
 🛠️ Teknologi yang Digunakan
+
 | Teknologi                                | Keterangan                     |
 | ---------------------------------------- | ------------------------------ |
 | ⚙️ **Kotlin**                            | Bahasa pemrograman utama       |
