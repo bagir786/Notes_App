@@ -55,6 +55,8 @@ Menggunakan SharedPreferences, aplikasi akan mengingat tema pilihan pengguna mes
 <img src="https://raw.githubusercontent.com/bagir786/Notes_App/master/2.png" width="250" />
 &nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/bagir786/Notes_App/master/3.png" width="250" />
+&nbsp;&nbsp;&nbsp;
+https://github.com/bagir786/Notes_App/blob/master/4.jpg
 
 </div>
 
